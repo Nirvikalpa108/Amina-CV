@@ -6,10 +6,15 @@ Amina is passionate about having a positive impact on the world. Her daily pract
 ## Employment
 
 Research
+
 Analysis
+
 Partnerships
+
 Start-up
+
 Leadership
+
 Investment
 
 ## Education
