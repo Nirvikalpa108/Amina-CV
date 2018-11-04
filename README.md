@@ -19,4 +19,5 @@ Investment
 
 ## Education
 London School of Economics BSc Social Policy - First Class Honours
+
 United World College of the Atlantic - International Baccalaureate (Maths, Design, History, English, German, Music) 37
