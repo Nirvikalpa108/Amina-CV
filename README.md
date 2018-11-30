@@ -16,7 +16,7 @@ Amina started her coding journey in October 2018 as she wanted to learn somethin
 
 [HeadtoTail](https://github.com/versatilese16/verSAtile/tree/master) - Code First Girls team project. We are in the process of creating a website profiling pet accessories.
 
-*Forthcoming* - my next project will be how to split the costs of something with one or more people. First I want to build the code which allows two people, with different spending amounts to split the total between them and know how much each owes the other. Then, I want to scale this to include more than two people and perhaps varying % shares of total costs. This is inspired by the app, Splitwise.
+*Forthcoming* - my next project will be how to split the costs of something with one or more people. First I want to build the code which allows two people, with different spending amounts to split the total between them and know how much each owes the other. Then, I want to scale this to include more than two people and perhaps varying % shares of total costs. This is inspired by the app, [Splitwise](https://www.splitwise.com/).
 
 **Conferences/events**
 
