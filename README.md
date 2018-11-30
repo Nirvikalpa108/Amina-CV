@@ -6,7 +6,7 @@ Amina started her coding journey in October 2018 as she wanted to learn somethin
 ## Coding
 **Courses**
 
-*Code First Girls Beginners Frontend Course* at Entrepreneur First, London - this is an evening course taught over 8 weeks, which includes HTML, CSS, Javascript and JQuery, Bootstrap and Git.
+*Code First Girls Beginners Frontend Course* at Entrepreneur First, London - this is an evening course taught over 8 weeks, which includes HTML, CSS, Javascript, JQuery, Bootstrap and Git.
 
 *Code Academy Ruby* - an online course teaching an introduction to Ruby.
 
