@@ -30,7 +30,7 @@ Q4-2018:
 
 In November, I set up a what's app group for women teaching themselves how to code in London. We are holding our first meetup in the New Year.
 
-## Paid Employment
+## Paid work
 
 I have been working for myself (as a director of my own limited company) since 2016. I've primarily worked for the UK's Department for International Development where I'm responsible for monitoring HMRC's investment into a new education company. I've also done projects for a private equity fund and an international NGO.
 
@@ -45,4 +45,4 @@ United World College of the Atlantic - International Baccalaureate (Maths, Desig
 amina.adewusi@gmail.com
 
 
-[@a_adewusi](https://twitter.com/a_adewusi)
+Twitter: [@a_adewusi](https://twitter.com/a_adewusi)
