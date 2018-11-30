@@ -39,6 +39,8 @@ Prior to working for myself, I worked as a private equity funds investor for the
 ## Education
 London School of Economics BSc Social Policy - First Class Honours
 
+Birkbeck Postgraduate Diploma in Finance
+
 United World College of the Atlantic - International Baccalaureate (Maths, Design, History, English, German, Music) 37
 
 ## Contact Amina
