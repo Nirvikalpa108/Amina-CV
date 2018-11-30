@@ -48,7 +48,7 @@ Birkbeck Postgraduate Diploma in Finance
 
 United World College of the Atlantic - International Baccalaureate
 
-## Contact Amina
+## Contact 
 amina.adewusi@gmail.com
 
 
