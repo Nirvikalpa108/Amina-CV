@@ -1,4 +1,4 @@
-# Amina Adewusi
+# Amina Adewusi CV
 
 ## Summary
 Amina started her coding journey in October 2018 as she wanted to learn something new whilst on maternity leave. She discovered a love for web development and a particular interest in the backend. She loves logical reasoning, solving problems and self taught learning. She is a proud open source warrier, who would like to kiss the feet of all GitHub employees. She is primarily a remote worker and aims to become a fully fledged backend engineer.
@@ -40,3 +40,7 @@ Prior to working for myself, I worked as a private equity funds investor for the
 London School of Economics BSc Social Policy - First Class Honours
 
 United World College of the Atlantic - International Baccalaureate (Maths, Design, History, English, German, Music) 37
+
+## Contact Amina
+amina.adewusi@gmail.com
+[@a_adewusi](https://twitter.com/a_adewusi)
