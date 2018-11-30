@@ -20,6 +20,7 @@ Amina started her coding journey in October 2018 as she wanted to learn somethin
 
 
 Q4-2018:
+* Rails Girls Workshop
 * HalfStack London
 * MozFest
 * DevRelCon
