@@ -6,6 +6,10 @@ Amina started her coding journey in October 2018 as she wanted to learn somethin
 Prior to finding her passion for problem solving through code, Amina worked on her passion for Sub Saharan Africa and trying to make life better for the average person there. She worked in finance, investing in everything from billion dollar private equity funds to seed funds for startups. 
 
 ## Coding
+**Languages & Tools**
+
+HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
+
 **Courses**
 
 *Code First Girls Beginners Frontend Course* at Entrepreneur First, London - this is an evening course taught over 8 weeks, which includes HTML, CSS, Javascript, JQuery, Bootstrap and Git.
