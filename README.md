@@ -24,7 +24,7 @@ HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
 
 [Ideas App](https://github.com/Nirvikalpa108/rails_ideasapp) - an ideas app I made during a Rails Girls Workshop on 1/12/2018.
 
-*Forthcoming* - my next project will be how to split the costs of something with one or more people. First I want to build the code which allows two people, with different spending amounts to split the total between them and know how much each owes the other. Then, I want to scale this to include more than two people and perhaps varying % shares of total costs. This is inspired by the app, [Splitwise](https://www.splitwise.com/).
+[*Forthcoming*](https://github.com/Nirvikalpa108/Split) - my next project will be how to split the costs of something with one or more people. First I want to build the code which allows two people, with different spending amounts to split the total between them and know how much each owes the other. Then, I want to scale this to include more than two people and perhaps varying % shares of total costs. This is inspired by the app, [Splitwise](https://www.splitwise.com/).
 
 **Conferences/events**
 
