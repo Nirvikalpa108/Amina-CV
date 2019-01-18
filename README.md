@@ -1,7 +1,7 @@
 # Amina Adewusi CV
 
 ## Summary
-Amina started her coding journey in October 2018 as she wanted to learn something new whilst on maternity leave. She discovered a love for web development and a particular interest in the backend. She loves logical reasoning, solving problems and self taught learning. She is a proud open source warrier, who would like to kiss the feet of all GitHub employees. She is primarily a remote worker and aims to become a fully fledged backend engineer.
+Amina started her coding journey in October 2018 as she wanted to learn something new whilst on maternity leave. She discovered a love for web development and a particular interest in the backend. She loves logical reasoning, solving problems and self taught learning. She is a proud open source warrier, who would like to kiss the feet of all GitHub employees. She currently works as a developer at [Error](www.error.agency) where she serves clients mainly in the arts, cultural and academia sectors.
 
 Prior to finding her passion for problem solving through code, Amina tried to make life better for the average person in Sub Saharan Africa through finance. She worked with teams investing in everything from billion dollar private equity funds to tech startups. 
 
