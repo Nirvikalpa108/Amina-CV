@@ -28,6 +28,8 @@ HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
 
 **Conferences/events**
 
+Q1-2019:
+* You Got This! Conference
 
 Q4-2018:
 * Rails Girls Workshop
