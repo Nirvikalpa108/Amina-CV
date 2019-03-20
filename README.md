@@ -16,6 +16,18 @@ HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
 
 *Code Academy Ruby* - an online course teaching an introduction to Ruby.
 
+**Open source contributions**
+
+[Diaper app](https://github.com/Nirvikalpa108/diaper) - a Ruby for Good project, which supports diaper banks in the US.
+
+[Partner - the partner app to Diaper](https://github.com/Nirvikalpa108/partner) - see above.
+
+[Public Labs](https://github.com/Nirvikalpa108/plots2) - an open source project helping people tackle local environmental concerns.
+
+[London Tech Meetups](https://github.com/Nirvikalpa108/londontechmeetups.github.io) - a list of London tech meetups.
+
+[Remote jobs](https://github.com/Nirvikalpa108/remote-jobs) - a list of companies hiring for remote roles.
+
 **Pet projects**
 
 [RainyDay](https://github.com/Nirvikalpa108/RainyDay) - a little web app which shows you the weather in London today and what to wear on your cycle commute! Amina's first project ever and a real joy! 
@@ -24,11 +36,13 @@ HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
 
 [Ideas App](https://github.com/Nirvikalpa108/rails_ideasapp) - an ideas app I made during a Rails Girls Workshop on 1/12/2018.
 
-[Split](https://github.com/Nirvikalpa108/Split) - my next project will be how to split the costs of something with one or more people. First I want to build the code which allows two people, with different spending amounts to split the total between them and know how much each owes the other. Then, I want to scale this to include more than two people and perhaps varying % shares of total costs. This is inspired by the app, [Splitwise](https://www.splitwise.com/).
+[Split](https://github.com/Nirvikalpa108/Split) - how to split the costs of something with one or more people, inspired by the app, [Splitwise](https://www.splitwise.com/).
 
 **Conferences/events**
 
 Q1-2019:
+* Women Driven Development Hackathon at Expedia Group
+* Global Diversity CFP Day
 * You Got This! Conference
 
 Q4-2018:
@@ -41,7 +55,7 @@ Q4-2018:
 
 **Achievements**
 
-In November, I set up a what's app group for women teaching themselves how to code in London. We are holding our first meetup in the New Year.
+In November, I set up a what's app group for women teaching themselves how to code in London. 
 
 ## Paid work
 
