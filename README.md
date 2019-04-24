@@ -30,13 +30,11 @@ HTML, CSS, Bootstrap, Javascript, Ruby and Rails, Git
 
 **Pet projects**
 
+[Rails CRUD app](https://github.com/Nirvikalpa108/Rails-blog) - my first rails CRUD app.
+
 [RainyDay](https://github.com/Nirvikalpa108/RainyDay) - a little web app which shows you the weather in London today and what to wear on your cycle commute! Amina's first project ever and a real joy! 
 
 [HeadtoTail](https://github.com/versatilese16/verSAtile/tree/master) - Code First Girls team project. We are in the process of creating a website profiling pet accessories.
-
-[Ideas App](https://github.com/Nirvikalpa108/rails_ideasapp) - an ideas app I made during a Rails Girls Workshop on 1/12/2018.
-
-[Split](https://github.com/Nirvikalpa108/Split) - how to split the costs of something with one or more people, inspired by the app, [Splitwise](https://www.splitwise.com/).
 
 **Conferences/events**
 
