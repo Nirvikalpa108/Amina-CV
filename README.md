@@ -1,7 +1,7 @@
 # Amina Adewusi CV
 
 ## Summary
-Amina Adewusi is a Junior Developer at [Error](www.error.agency). She taught herself how to code whilst on maternity leave. Amina is excited by the opportunity to connect with people from all over the world to solve important problems and open source is one of the reasons she became interested in coding. 
+Amina Adewusi is a Junior Developer at [Error](https://error.agency/). She taught herself how to code whilst on maternity leave. Amina is excited by the opportunity to connect with people from all over the world to solve important problems and open source is one of the reasons she became interested in coding. 
 
 Prior to finding her passion for problem solving through code, Amina tried to make life better for the average person in Sub Saharan Africa through finance. She worked with teams investing in everything from billion dollar private equity funds to tech startups. 
 
