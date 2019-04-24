@@ -57,7 +57,7 @@ In November, I set up a what's app group for women teaching themselves how to co
 
 ## Paid work
 
-I have been working for myself (as a director of my own limited company) since 2016. I've primarily worked for the UK's Department for International Development where I'm responsible for monitoring HMRC's investment into a new education company. I've also done projects for a private equity fund and an international NGO.
+I worked as an independent consultant from 2016-19, primarily for the UK's Department for International Development where I was responsible for monitoring HMRC's investment into a new education company. I've also done projects for a private equity fund and an international NGO.
 
 Prior to working for myself, I worked as a private equity funds investor for the UK's development finance institution and I was an economist for an investment bank focusing on FX and bonds.
 
